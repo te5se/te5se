@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I am Vlad
 
-<!--
-**te5se/te5se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software engineer with more than 6 years of expirience
 
-Here are some ideas to get you started:
+- 🔧 My specialty is backend development with Go as preferred language
+I've worked on various products from MES systems to identity providers, in teams varying in sizes from a couple of people to several dozen
+- 🪚 Most of my work is proprietary, but you can assess my coding style with [tg-mux](https://github.com/te5se/tg-mux) library that I've used in several of my private and commercial projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#
+💬 If you wish to reach me, you can do that at [email](mailto:vlad.vanyushkin.job@gmail.com), [Telegram](https://t.me/vvan_job), [WhatsApp](https://wa.link/5v258p) or [LinkedIN](https://www.linkedin.com/in/vladislav-vanyushkin-70552a3b5/)
+
+
